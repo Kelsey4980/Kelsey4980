@@ -84,14 +84,14 @@
 ## GitHub Stats
 
 <div align="center" width="100%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kelsey4980&theme=midnight-purple&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=ffffff&icon_color=9745f5&chart_color=9745f5" height="160" hspace="13"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kelsey4980&theme=midnight-purple&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=ffffff&icon_color=9745f5&chart_color=9745f5" height="160" hspace="13"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kelsey4980&theme=midnight-purple&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=ffffff&icon_color=9745f5&chart_color=9745f5" height="160" hspace="13"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kelsey4980&theme=midnight-purple&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=ffffff&icon_color=9745f5&chart_color=9745f5" width="270" height="155" hspace="13"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kelsey4980&theme=midnight-purple&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=ffffff&icon_color=9745f5&chart_color=9745f5" width="270" height="155" hspace="13"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kelsey4980&theme=midnight-purple&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=ffffff&icon_color=9745f5&chart_color=9745f5" width="270" height="155" hspace="13"/>
 </div>
 <br />
 <div align="center" width="100%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kelsey4980&theme=midnight-purple&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=ffffff&icon_color=9745f5&chart_color=9745f5" height="140" hspace="10"/>
-  <img src="https://streak-stats.demolab.com?user=Kelsey4980&theme=midnight-purple" height="140"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kelsey4980&theme=midnight-purple&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=ffffff&icon_color=9745f5&chart_color=9745f5" width="420" height="175" hspace="10"/>
+  <img src="https://streak-stats.demolab.com?user=Kelsey4980&theme=midnight-purple" width="420" height="175"/>
 </div>
 
 
