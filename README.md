@@ -99,11 +99,11 @@
 <div width="100%" align="center">
 
 <a href="https://github.com/unboundcase/cssweng-s15-group5">
-  <img width="45%" src="https://github-readme-stats.shion.dev/api/pin/?username=unboundcase&repo=cssweng-s15-group5&title_color=0891b2&text_color=a855f7&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" />
+  <img width="45%" src="https://github-readme-stats.shion.dev/api/pin/?username=unboundcase&repo=cssweng-s15-group5&title_color=9745f5&text_color=ffffff&icon_color=9745f5&bg_color=000000&hide_border=true&locale=en" />
 </a>
 
 <a href="https://github.com/haniellejermayn/Kasama">
-  <img width="45%" src="https://github-readme-stats.shion.dev/api/pin/?username=haniellejermayn&repo=Kasama&title_color=0891b2&text_color=a855f7&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" />
+  <img width="45%" src="https://github-readme-stats.shion.dev/api/pin/?username=haniellejermayn&repo=Kasama&title_color=9745f5&text_color=ffffff&icon_color=9745f5&bg_color=000000&hide_border=true&locale=en" />
 </a>
 </div>
 
