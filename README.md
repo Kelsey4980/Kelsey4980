@@ -1,4 +1,4 @@
-![Gabrielle Kelsey](images/banner.png)
+![Gabrielle Kelsey](banner.jpg)
 
 <div id="user-content-toc" align="center">
   <ul>
